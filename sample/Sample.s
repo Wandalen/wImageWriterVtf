@@ -3,5 +3,5 @@ let _ = require( 'wimagewritervtf' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
