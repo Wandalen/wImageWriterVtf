@@ -8,7 +8,7 @@ ___
 git clone https://github.com/Wandalen/wImageWriterVtf
 cd wImageWriterVtf
 npm install
-node sample/Sample.s
+node sample/trivial/Sample.s
 ```
 
 ## To add to your project
